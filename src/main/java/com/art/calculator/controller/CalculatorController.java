@@ -55,5 +55,4 @@ public class CalculatorController {
         return num1 + " / " + num2 + " = " + calculatorService.divide(num1, num2);
 
     }
-
 }
